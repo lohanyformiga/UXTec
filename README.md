@@ -1,7 +1,7 @@
 # UXTec
 
 <p align="center">
-  <img width="500" height="300" src="https://cdn-images-1.medium.com/max/720/1*vDP5lOUs8p1veVt3xvr4QQ.png">
+  <img width="700" height="266" src="https://cdn-images-1.medium.com/max/720/1*vDP5lOUs8p1veVt3xvr4QQ.png">
 </p>
 
 ## Sobre :speech_balloon:
