@@ -18,10 +18,6 @@ Este app foi desenvolvido a nível didático, foi a primeira vez que fiz um app 
  ## UX Designer :open_umbrella:	
  Usei métodos UX Design no desenvolvimento do UXTec para encontrar uma boa solução e quais práticas para o meu projeto utilizei o Design Thiking, e processo de pesquisa quantitativa e personas entre
  outros até chegar no produto final todo o processo de desenvolvimento encontra-se no Medium.
- 
- ## UI Designer :unicorn:	
- 
- 
 
 ## Clonando
 1. Faça o download ou clone este repositório;
